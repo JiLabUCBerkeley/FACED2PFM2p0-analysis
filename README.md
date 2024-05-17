@@ -1,29 +1,39 @@
 # FACED2PFM2p0-analysis
 Data analysis code for FACED 2PFM 2.0 paper
 
-Detailed description of the algorithm implementation can be found in the method parts of this paper.
+Detailed description of the functions can be found in the method parts of the FACED 2.0 paper.
 
 ## Citation
-
-Please cite the above publication if you use the code in this repository.  
+Please cite the FACED 2.0 paper if you use the code in this repository.  
 
 ## Dependency
-
 - numpy
 - scipy
-- matplotlib
-- skcikit-image
+- h5py
 - skcikit-learn
+- skcikit-image
+- tiffile
+- pykalman
+- suite2p
+- caiman
 
-## System requirements and isntallation
-Te run the code, we recommend to set up workstation with the following computer resources:
+## System requirements 
+Te run the code, we recommend to set up workstation with the following computation resources:
 - CPU with over 3.0 GHz clock rate and 18 cores
 - over 128 GB RAM
 - SATA 3.0 SSD with over 2TB storage capacity
 - GPU with over 4.0 GB memory
+- OS: Windows 11 Pro
+
+## Installation guide
+1. Follow installation instructions on [Python](https://www.python.org/) webiste to install python compiler to your computer.
+2. Follow installation instructions on [numpy](https://numpy.org/), [SciPy](https://scipy.org/), [H5py](https://www.h5py.org/), [skcikit-learn](https://scikit-learn.org/stable/), and [scikit-image](https://scikit-image.org/) websites to install these modules for your python compiler.
+3. Follow installation instructions on [pykalman git repo](https://github.com/pykalman/pykalman) to install pykalman for your python compiler
+4. Follow installation instructions on [suite2p git repo](https://github.com/MouseLand/suite2p) to install suite2p for your python compiler.
+5. Follow installation instructions on [CaImAn git repo](https://github.com/flatironinstitute/CaImAn) to install CaImAn for your python compiler.
+6. Git clone or git add submodule of this repo to your project and you are ready to go.
 
 ## License
-
 [GLP-3.0 license](./LICENSE)
 
 ## Reference
