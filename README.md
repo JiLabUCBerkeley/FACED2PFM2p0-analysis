@@ -8,7 +8,7 @@ Please cite the *FACED 2.0 enables large-scale voltage and calcium imaging in vi
 
 ## Description
 - [FACEDDataAcquisition](./CodeBase/FACEDDataAcqusition/) directory includes data acquisition software
-- [FACEDDataAcquisition](./CodeBase/FACEDDataAcqusition/) directory includes data analysis code
+- [FACEDDataProcessing](./CodeBase/FACEDDataProcessing/) directory includes data analysis code
 
 
 ## Dependency for data analysis code
