@@ -1,3 +1,6 @@
 [submodule "CodeBase/FACEDDataProcessing"]
 	path = CodeBase/FACEDDataProcessing
 	url = https://github.com/JianZhongBerkeley/FACED2p0DataProcessing
+[submodule "CodeBase/FACEDDataAcqusition"]
+	path = CodeBase/FACEDDataAcqusition
+	url = https://github.com/JianZhongBerkeley/FACEDDataAcqusition.git
