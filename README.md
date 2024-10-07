@@ -7,8 +7,8 @@ Detailed description of the functions can be found in the method parts of the ab
 Please cite the *FACED 2.0 enables large-scale voltage and calcium imaging in vivo* paper if you use the code in this repository.  
 
 ## Description
-- [FACEDDataAcquisition](./CodeBase/FACEDDataAcqusition/) directory includes data acquisition software
-- [FACEDDataProcessing](./CodeBase/FACEDDataProcessing/) directory includes data analysis code
+- FACEDDataAcquisition directory inside [CodeBase](./CodeBase/) includes data acquisition software
+- FACEDDataProcessing directory inside [CodeBase](./CodeBase/) includes data analysis code
 
 
 ## Dependency for data analysis code
@@ -54,7 +54,7 @@ You can also directly `import` the scripts into your project and use their funct
 
 
 ## Installation for data acquisition software
-Check the "README" file in the [FACEDDataAcquisition](./CodeBase/FACEDDataAcqusition/) directory for installation instructions.
+Check the "README" file in the FACEDDataAcquisition directory for installation instructions.
 
 
 ## License
