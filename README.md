@@ -53,6 +53,10 @@ Demo script will be excuted and output will be reported. The excutation time of 
 You can also directly `import` the scripts into your project and use their functions for your own data processing. 
 
 
+## Expected run time
+Typically, execution of the analysis function should be completed within a few seconds.
+
+
 ## Installation for data acquisition software
 Check the "README" file in the FACEDDataAcquisition directory for installation instructions.
 
